@@ -1,0 +1,113 @@
+WARNING - 2025-07-07 12:01:41 --> [DEPRECATED] Creation of dynamic property CodeIgniter\HTTP\IncomingRequest::$user is deprecated in APPPATH\Filters\JwtAuthFilter.php on line 47.
+ 1 SYSTEMPATH\Filters\Filters.php(241): App\Filters\JwtAuthFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), null)
+ 2 SYSTEMPATH\Filters\Filters.php(221): CodeIgniter\Filters\Filters->runBefore([...])
+ 3 SYSTEMPATH\CodeIgniter.php(479): CodeIgniter\Filters\Filters->run('api/user/vehicles/11/transactions', 'before')
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2025-07-07 12:01:46 --> [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Could not find stored procedure 'sp_get_service_history_by_nopol'.
+ERROR - 2025-07-07 12:01:46 --> Gagal mengakses database JKT: [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Could not find stored procedure 'sp_get_service_history_by_nopol'.
+ERROR - 2025-07-07 12:01:46 --> [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Could not find stored procedure 'sp_get_service_history_by_nopol'.
+ERROR - 2025-07-07 12:01:46 --> Gagal mengakses database PLG: [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Could not find stored procedure 'sp_get_service_history_by_nopol'.
+ERROR - 2025-07-07 12:01:47 --> [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Could not find stored procedure 'sp_get_service_history_by_nopol'.
+ERROR - 2025-07-07 12:01:47 --> Gagal mengakses database TNG: [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Could not find stored procedure 'sp_get_service_history_by_nopol'.
+WARNING - 2025-07-07 12:02:21 --> [DEPRECATED] Creation of dynamic property CodeIgniter\HTTP\IncomingRequest::$user is deprecated in APPPATH\Filters\JwtAuthFilter.php on line 47.
+ 1 SYSTEMPATH\Filters\Filters.php(241): App\Filters\JwtAuthFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), null)
+ 2 SYSTEMPATH\Filters\Filters.php(221): CodeIgniter\Filters\Filters->runBefore([...])
+ 3 SYSTEMPATH\CodeIgniter.php(479): CodeIgniter\Filters\Filters->run('api/user/transactions/3031078/202501140016', 'before')
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2025-07-07 12:02:22 --> Rating tidak ditemukan untuk transaksi: 202501140016
+WARNING - 2025-07-07 13:44:09 --> [DEPRECATED] Creation of dynamic property CodeIgniter\HTTP\IncomingRequest::$user is deprecated in APPPATH\Filters\JwtAuthFilter.php on line 47.
+ 1 SYSTEMPATH\Filters\Filters.php(241): App\Filters\JwtAuthFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), null)
+ 2 SYSTEMPATH\Filters\Filters.php(221): CodeIgniter\Filters\Filters->runBefore([...])
+ 3 SYSTEMPATH\CodeIgniter.php(479): CodeIgniter\Filters\Filters->run('api/user/transactions/3031078/202501140016', 'before')
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2025-07-07 13:44:10 --> Rating tidak ditemukan untuk transaksi: 202501140016
+WARNING - 2025-07-07 13:44:44 --> [DEPRECATED] Creation of dynamic property CodeIgniter\HTTP\IncomingRequest::$user is deprecated in APPPATH\Filters\JwtAuthFilter.php on line 47.
+ 1 SYSTEMPATH\Filters\Filters.php(241): App\Filters\JwtAuthFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), null)
+ 2 SYSTEMPATH\Filters\Filters.php(221): CodeIgniter\Filters\Filters->runBefore([...])
+ 3 SYSTEMPATH\CodeIgniter.php(479): CodeIgniter\Filters\Filters->run('api/user/vehicles/1/service-recommendations', 'before')
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-07-07 13:45:36 --> [DEPRECATED] Creation of dynamic property CodeIgniter\HTTP\IncomingRequest::$user is deprecated in APPPATH\Filters\JwtAuthFilter.php on line 47.
+ 1 SYSTEMPATH\Filters\Filters.php(241): App\Filters\JwtAuthFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), null)
+ 2 SYSTEMPATH\Filters\Filters.php(221): CodeIgniter\Filters\Filters->runBefore([...])
+ 3 SYSTEMPATH\CodeIgniter.php(479): CodeIgniter\Filters\Filters->run('api/user/vehicles/11/transactions', 'before')
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2025-07-07 13:45:39 --> [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Could not find stored procedure 'sp_get_service_history_by_nopol'.
+ERROR - 2025-07-07 13:45:39 --> Gagal mengakses database JKT: [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Could not find stored procedure 'sp_get_service_history_by_nopol'.
+ERROR - 2025-07-07 13:45:39 --> [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Could not find stored procedure 'sp_get_service_history_by_nopol'.
+ERROR - 2025-07-07 13:45:39 --> Gagal mengakses database PLG: [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Could not find stored procedure 'sp_get_service_history_by_nopol'.
+ERROR - 2025-07-07 13:45:39 --> [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Could not find stored procedure 'sp_get_service_history_by_nopol'.
+ERROR - 2025-07-07 13:45:39 --> Gagal mengakses database TNG: [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Could not find stored procedure 'sp_get_service_history_by_nopol'.
+WARNING - 2025-07-07 13:45:49 --> [DEPRECATED] Creation of dynamic property CodeIgniter\HTTP\IncomingRequest::$user is deprecated in APPPATH\Filters\JwtAuthFilter.php on line 47.
+ 1 SYSTEMPATH\Filters\Filters.php(241): App\Filters\JwtAuthFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), null)
+ 2 SYSTEMPATH\Filters\Filters.php(221): CodeIgniter\Filters\Filters->runBefore([...])
+ 3 SYSTEMPATH\CodeIgniter.php(479): CodeIgniter\Filters\Filters->run('api/user/vehicles/1/point-history', 'before')
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2025-07-07 13:45:49 --> [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Could not find stored procedure 'sp_get_service_history_by_nopol'.
+ERROR - 2025-07-07 13:45:49 --> Gagal mengakses database JKT: [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Could not find stored procedure 'sp_get_service_history_by_nopol'.
+ERROR - 2025-07-07 13:45:49 --> [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Could not find stored procedure 'sp_get_service_history_by_nopol'.
+ERROR - 2025-07-07 13:45:49 --> Gagal mengakses database PLG: [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Could not find stored procedure 'sp_get_service_history_by_nopol'.
+ERROR - 2025-07-07 13:45:50 --> [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Could not find stored procedure 'sp_get_service_history_by_nopol'.
+ERROR - 2025-07-07 13:45:50 --> Gagal mengakses database TNG: [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Could not find stored procedure 'sp_get_service_history_by_nopol'.
+WARNING - 2025-07-07 13:45:56 --> [DEPRECATED] Creation of dynamic property CodeIgniter\HTTP\IncomingRequest::$user is deprecated in APPPATH\Filters\JwtAuthFilter.php on line 47.
+ 1 SYSTEMPATH\Filters\Filters.php(241): App\Filters\JwtAuthFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), null)
+ 2 SYSTEMPATH\Filters\Filters.php(221): CodeIgniter\Filters\Filters->runBefore([...])
+ 3 SYSTEMPATH\CodeIgniter.php(479): CodeIgniter\Filters\Filters->run('api/user/transactions/3031078/202501140016', 'before')
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2025-07-07 13:45:57 --> Rating tidak ditemukan untuk transaksi: 202501140016
+WARNING - 2025-07-07 14:13:43 --> [DEPRECATED] Creation of dynamic property CodeIgniter\HTTP\IncomingRequest::$user is deprecated in APPPATH\Filters\JwtAuthFilter.php on line 47.
+ 1 SYSTEMPATH\Filters\Filters.php(241): App\Filters\JwtAuthFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), null)
+ 2 SYSTEMPATH\Filters\Filters.php(221): CodeIgniter\Filters\Filters->runBefore([...])
+ 3 SYSTEMPATH\CodeIgniter.php(479): CodeIgniter\Filters\Filters->run('api/user/transactions/3031078/202501140016', 'before')
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2025-07-07 14:13:44 --> Rating tidak ditemukan untuk transaksi: 202501140016
+WARNING - 2025-07-07 14:15:43 --> [DEPRECATED] Creation of dynamic property CodeIgniter\HTTP\IncomingRequest::$user is deprecated in APPPATH\Filters\JwtAuthFilter.php on line 47.
+ 1 SYSTEMPATH\Filters\Filters.php(241): App\Filters\JwtAuthFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), null)
+ 2 SYSTEMPATH\Filters\Filters.php(221): CodeIgniter\Filters\Filters->runBefore([...])
+ 3 SYSTEMPATH\CodeIgniter.php(479): CodeIgniter\Filters\Filters->run('api/user/transactions/3031078/202501140016', 'before')
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2025-07-07 14:15:44 --> Rating tidak ditemukan untuk transaksi: 202501140016
+WARNING - 2025-07-07 14:16:34 --> [DEPRECATED] Creation of dynamic property CodeIgniter\HTTP\IncomingRequest::$user is deprecated in APPPATH\Filters\JwtAuthFilter.php on line 47.
+ 1 SYSTEMPATH\Filters\Filters.php(241): App\Filters\JwtAuthFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), null)
+ 2 SYSTEMPATH\Filters\Filters.php(221): CodeIgniter\Filters\Filters->runBefore([...])
+ 3 SYSTEMPATH\CodeIgniter.php(479): CodeIgniter\Filters\Filters->run('api/user/transactions/3031078/202412250018', 'before')
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2025-07-07 14:16:36 --> Kendaraan tidak ditemukan untuk nopolisi: F2401WAN dan phone: 0895329304733
+WARNING - 2025-07-07 14:17:32 --> [DEPRECATED] Creation of dynamic property CodeIgniter\HTTP\IncomingRequest::$user is deprecated in APPPATH\Filters\JwtAuthFilter.php on line 47.
+ 1 SYSTEMPATH\Filters\Filters.php(241): App\Filters\JwtAuthFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), null)
+ 2 SYSTEMPATH\Filters\Filters.php(221): CodeIgniter\Filters\Filters->runBefore([...])
+ 3 SYSTEMPATH\CodeIgniter.php(479): CodeIgniter\Filters\Filters->run('api/user/transactions/3031078/202501140016', 'before')
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2025-07-07 14:17:33 --> Rating tidak ditemukan untuk transaksi: 202501140016
