@@ -53,6 +53,7 @@ class PointModel extends Model
 
             $result = $this->select('totalpoint')
                 ->where('nopolisi', $nopol)
+                ->where('statusproses', 3)
                 ->orderBy('tglinsert', 'DESC')
                 ->first();
 
