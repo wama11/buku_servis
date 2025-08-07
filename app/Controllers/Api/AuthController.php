@@ -27,8 +27,6 @@ class AuthController extends BaseController
         $data = $this->request->getJSON(true);
         $phone_number = $data['phone_number'] ?? null;
 
-
-
         if (!$phone_number) {
             return $this->response->setJSON([
                 'status' => 'error',
@@ -97,7 +95,6 @@ class AuthController extends BaseController
             'is_pin_set' => $is_pin_set
         ])->setStatusCode(200);
     }
-
 
 
     public function requestOtp()

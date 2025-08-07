@@ -14,32 +14,6 @@ class PointModel extends Model
     protected $allowedFields = ['nopolisi', 'tglbisnis', 'kodetoko', 'nomortransaksi', 'statusproses', 'point'];
     protected $useTimestamps = false; // Jangan otomatis, kita set manual
 
-    // public function getLatestByNopolisi(string $nopol)
-    // {
-    //     return $this->where('nopolisi', $nopol)
-    //         ->orderBy('tglinsert', 'DESC')
-    //         ->first(); // LIMIT 1 equivalent
-    // }
-
-    // public function getLatestPointByNopolisi(string $nopol)
-    // {
-    //     return $this->select('totalpoint')
-    //         ->where('nopolisi', $nopol)
-    //         ->orderBy('tglinsert', 'DESC')
-    //         ->first(); // setara dengan LIMIT 1
-    // }
-
-    // public function getLatestPointByNopolisi(string $nopol)
-    // {
-    //     // print_r($nopol);
-    //     // die();
-    //     $result = $this->select('totalpoint')
-    //         ->where('nopolisi', $nopol)
-    //         ->orderBy('tglinsert', 'DESC')
-    //         ->first();
-
-    //     return $result ? $result['totalpoint'] : 0;
-    // }
 
     public function getLatestPointByNopolisi(string $nopol): int
     {

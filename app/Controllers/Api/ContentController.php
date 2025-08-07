@@ -19,7 +19,6 @@ class ContentController extends BaseController
             $list_tnc = $contentModel->getTnC();
             $point_tnc = $list_tnc[0]['tnc_text'] ?? '';
 
-
             $rate_notes = [];
 
             foreach ($list_content as $item) {
